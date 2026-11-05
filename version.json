@@ -1,15 +1,15 @@
 {
- "version": "1.8.1",
+ "version": "1.9",
  "date": "2026-11-05",
- "notes": "Wersja testowa automatycznej aktualizacji",
+ "notes": "Bot: /status z flotą i gotówką, /gotowka, /flota, /pomoc, wyszukiwanie po numerze i nazwisku",
  "program": {
-  "file": "LIGHT_Fleet_Manager_Setup_1.8.1.exe",
-  "sha256": "bb5069dab9dd2a0b1f95f32218efcfdbed1e55b9ba0b9e3cc08f783c61fdfa60",
-  "size": 27098171
+  "file": "LIGHT_Fleet_Manager_Setup_1.9.exe",
+  "sha256": "f6f3d4cf26460bdd521ca6fdf18799684ffa1f070a556644d051bd942e76f22f",
+  "size": 27098437
  },
  "bot": {
-  "file": "LightFleetBot_1.8.1.zip",
-  "sha256": "329a499548ad9eb0e6dec0f74c40dfbd6f8fa00ac1def67f965b958a24bf0552",
-  "size": 84789
+  "file": "LightFleetBot_1.9.zip",
+  "sha256": "9e47749c323e951664b4c1a07a7c4a5849c0cee897ffbc307c8d06b37efd87f9",
+  "size": 90935
  }
 }
