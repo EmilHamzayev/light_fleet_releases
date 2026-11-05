@@ -1,0 +1,15 @@
+{
+ "version": "1.8",
+ "date": "2026-11-05",
+ "notes": "Automatyczne aktualizacje programu i bota",
+ "program": {
+  "file": "LIGHT_Fleet_Manager_Setup_1.8.exe",
+  "sha256": "7904faa9b261eaea9e68d8cbbdb2935fd9ede080fc00c870602d4a2497d299a9",
+  "size": 27094837
+ },
+ "bot": {
+  "file": "LightFleetBot_1.8.zip",
+  "sha256": "f703efe27725b7d987dae969be32991789bd66050225dd572c2a7a8a5ca6b032",
+  "size": 84774
+ }
+}
