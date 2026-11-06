@@ -1,15 +1,15 @@
 {
- "version": "1.9",
- "date": "2026-11-05",
- "notes": "Bot: /status z flotą i gotówką, /gotowka, /flota, /pomoc, wyszukiwanie po numerze i nazwisku",
+ "version": "1.10",
+ "date": "2026-11-06",
+ "notes": "Bot: przypomnienia OC i przegląd (codziennie 10:00, od 30 dni), przycisk Zrobione z nową datą, /dokumenty",
  "program": {
-  "file": "LIGHT_Fleet_Manager_Setup_1.9.exe",
-  "sha256": "f6f3d4cf26460bdd521ca6fdf18799684ffa1f070a556644d051bd942e76f22f",
-  "size": 27098437
+  "file": "LIGHT_Fleet_Manager_Setup_1.10.exe",
+  "sha256": "1cbe72f87829615a1eb556062719490cb98c3636760499b0ea8d44f5d7de01a1",
+  "size": 27100882
  },
  "bot": {
-  "file": "LightFleetBot_1.9.zip",
-  "sha256": "9e47749c323e951664b4c1a07a7c4a5849c0cee897ffbc307c8d06b37efd87f9",
-  "size": 90935
+  "file": "LightFleetBot_1.10.zip",
+  "sha256": "1fd4d1cd7fa982c4b5f0e8daa70ff2938526ce0bf52a912c54dd97a744df936f",
+  "size": 97317
  }
 }
