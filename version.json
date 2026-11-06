@@ -1,15 +1,15 @@
 {
- "version": "1.10",
+ "version": "1.11",
  "date": "2026-11-06",
- "notes": "Bot: przypomnienia OC i przegląd (codziennie 10:00, od 30 dni), przycisk Zrobione z nową datą, /dokumenty",
+ "notes": "Program: Flota w menu (Samochody, Kierowcy, Gotówka), rozliczenie gotówki floty z przeniesieniem salda. Bot: raport w czwartek 9:00, kto nie oddał gotówki",
  "program": {
-  "file": "LIGHT_Fleet_Manager_Setup_1.10.exe",
-  "sha256": "1cbe72f87829615a1eb556062719490cb98c3636760499b0ea8d44f5d7de01a1",
-  "size": 27100882
+  "file": "LIGHT_Fleet_Manager_Setup_1.11.exe",
+  "sha256": "03392dce53cfcc34f827c37f0ba935fb12d6bb777ba388bbda0cb09019dd31f1",
+  "size": 27108712
  },
  "bot": {
-  "file": "LightFleetBot_1.10.zip",
-  "sha256": "1fd4d1cd7fa982c4b5f0e8daa70ff2938526ce0bf52a912c54dd97a744df936f",
-  "size": 97317
+  "file": "LightFleetBot_1.11.zip",
+  "sha256": "08e172ba828cb4487f23eedf552ad3e38b95d9914edb966ede15603bdc259ad5",
+  "size": 104676
  }
 }
