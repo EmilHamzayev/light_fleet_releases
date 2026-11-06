@@ -1,15 +1,15 @@
 {
- "version": "1.11",
+ "version": "1.12",
  "date": "2026-11-06",
- "notes": "Program: Flota w menu (Samochody, Kierowcy, Gotówka), rozliczenie gotówki floty z przeniesieniem salda. Bot: raport w czwartek 9:00, kto nie oddał gotówki",
+ "notes": "Ustawienia: przycisk Sprawdź aktualizacje",
  "program": {
-  "file": "LIGHT_Fleet_Manager_Setup_1.11.exe",
-  "sha256": "03392dce53cfcc34f827c37f0ba935fb12d6bb777ba388bbda0cb09019dd31f1",
-  "size": 27108712
+  "file": "LIGHT_Fleet_Manager_Setup_1.12.exe",
+  "sha256": "7de69f59fd8d0d14c9c6f46702745065d368bbc252009aed1bfc3ce707e0b3a6",
+  "size": 27108798
  },
  "bot": {
-  "file": "LightFleetBot_1.11.zip",
-  "sha256": "08e172ba828cb4487f23eedf552ad3e38b95d9914edb966ede15603bdc259ad5",
-  "size": 104676
+  "file": "LightFleetBot_1.12.zip",
+  "sha256": "364d39b67e94a34df5709b1357a580d6497340c70ace125fe513d37cc812d3fe",
+  "size": 104677
  }
 }
