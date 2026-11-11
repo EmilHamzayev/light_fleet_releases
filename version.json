@@ -1,15 +1,15 @@
 {
- "version": "1.12",
- "date": "2026-11-06",
- "notes": "Ustawienia: przycisk Sprawdź aktualizacje",
+ "version": "1.13",
+ "date": "2026-11-11",
+ "notes": "Bot: SMS przez telefon biura (SMS Gateway), odpowiedzi kierowców do biura, /sms_test",
  "program": {
-  "file": "LIGHT_Fleet_Manager_Setup_1.12.exe",
-  "sha256": "7de69f59fd8d0d14c9c6f46702745065d368bbc252009aed1bfc3ce707e0b3a6",
-  "size": 27108798
+  "file": "LIGHT_Fleet_Manager_Setup_1.13.exe",
+  "sha256": "c8a8965b23abfcfc1f10debabb808aac71b627cb025b71859b7f3c6f8f5736df",
+  "size": 27111288
  },
  "bot": {
-  "file": "LightFleetBot_1.12.zip",
-  "sha256": "364d39b67e94a34df5709b1357a580d6497340c70ace125fe513d37cc812d3fe",
-  "size": 104677
+  "file": "LightFleetBot_1.13.zip",
+  "sha256": "7255074b4974c2f311c22021ca7afb79cef6f9df6767636c99c4b154c911c255",
+  "size": 113107
  }
 }
