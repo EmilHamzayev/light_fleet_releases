@@ -1,15 +1,15 @@
 {
- "version": "1.18",
+ "version": "1.19",
  "date": "2026-11-16",
- "notes": "Asystentka: gotówka z danego tygodnia liczona wg wpłat z następnego tygodnia (KASA)",
+ "notes": "Asystentka czyta zdjęcia i PDF dokumentów samochodu (dowód rejestracyjny, polisa OC)",
  "program": {
-  "file": "LIGHT_Fleet_Manager_Setup_1.18.exe",
-  "sha256": "ae4d937ac6f51c32469cd7abdc14c7a87c8adafb582489aedd3edc429f0a3649",
-  "size": 27111084
+  "file": "LIGHT_Fleet_Manager_Setup_1.19.exe",
+  "sha256": "df164b21c8fd3be32732e6be3300438ab3e6d20dcbf4a580c61af341bd87441e",
+  "size": 27113054
  },
  "bot": {
-  "file": "LightFleetBot_1.18.zip",
-  "sha256": "b65a0b63ddcbe5f717f042d21b7a6e9149f746630afbdcfcc11b3f007f11f1ca",
-  "size": 149681
+  "file": "LightFleetBot_1.19.zip",
+  "sha256": "07c066ef7796bfd521e80701160e46648ca4f7904753e533123d40c07b98d689",
+  "size": 155720
  }
 }
