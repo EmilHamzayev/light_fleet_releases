@@ -1,15 +1,15 @@
 {
- "version": "1.13",
- "date": "2026-11-11",
- "notes": "Bot: SMS przez telefon biura (SMS Gateway), odpowiedzi kierowców do biura, /sms_test",
+ "version": "1.14",
+ "date": "2026-11-16",
+ "notes": "Asystent AI biura (rozmowa zwykłym językiem, zapis po ✅)",
  "program": {
-  "file": "LIGHT_Fleet_Manager_Setup_1.13.exe",
-  "sha256": "c8a8965b23abfcfc1f10debabb808aac71b627cb025b71859b7f3c6f8f5736df",
-  "size": 27111288
+  "file": "LIGHT_Fleet_Manager_Setup_1.14.exe",
+  "sha256": "fdb4e5d123b7c9b2ae36a4f4d8a670750caa4234cb01c2fa9b6d1c6d236f2f13",
+  "size": 27111355
  },
  "bot": {
-  "file": "LightFleetBot_1.13.zip",
-  "sha256": "7255074b4974c2f311c22021ca7afb79cef6f9df6767636c99c4b154c911c255",
-  "size": 113107
+  "file": "LightFleetBot_1.14.zip",
+  "sha256": "a317108b83dc665650e9557db338f9d46c47ed4ac40e3689886c2de0ccd8774a",
+  "size": 135150
  }
 }
