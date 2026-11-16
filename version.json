@@ -1,15 +1,15 @@
 {
- "version": "1.20",
+ "version": "1.21",
  "date": "2026-11-16",
- "notes": "Asystentka: zmiany floty, kierowcy, telefony, właściciele, olej, naprawy, SMS, przeniesienie wpłat z KASA",
+ "notes": "Asystentka: Natalia Lewandowska (imię stałe)",
  "program": {
-  "file": "LIGHT_Fleet_Manager_Setup_1.20.exe",
-  "sha256": "03002d47979ae6587c37dfab7397bcc2e2504024e836867c66cce3224db8f13c",
-  "size": 27113082
+  "file": "LIGHT_Fleet_Manager_Setup_1.21.exe",
+  "sha256": "cebed01707c5f1a6af0826a7d967c83d66858c6a6d882a95a10db705802a8bd9",
+  "size": 27111416
  },
  "bot": {
-  "file": "LightFleetBot_1.20.zip",
-  "sha256": "5de845aade0069a631314ea0c626ceb757f7445c2b7adbba6d3406a117a36e0d",
-  "size": 165292
+  "file": "LightFleetBot_1.21.zip",
+  "sha256": "230f35c31310c8dfc2c08df2cc7c11915a6dbdcbccecc66509d2a3f433df5379",
+  "size": 165639
  }
 }
