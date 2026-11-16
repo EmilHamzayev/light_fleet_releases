@@ -1,15 +1,15 @@
 {
- "version": "1.14",
+ "version": "1.15",
  "date": "2026-11-16",
- "notes": "Asystent AI biura (rozmowa zwykłym językiem, zapis po ✅)",
+ "notes": "Asystentka Anna: charakter, język odpowiedzi wg ostatniej wiadomości",
  "program": {
-  "file": "LIGHT_Fleet_Manager_Setup_1.14.exe",
-  "sha256": "fdb4e5d123b7c9b2ae36a4f4d8a670750caa4234cb01c2fa9b6d1c6d236f2f13",
-  "size": 27111355
+  "file": "LIGHT_Fleet_Manager_Setup_1.15.exe",
+  "sha256": "8d45902da031b8e12c66887bbfdaedd5e9b30c5b9ea52e014526398ceef0b1fd",
+  "size": 27113032
  },
  "bot": {
-  "file": "LightFleetBot_1.14.zip",
-  "sha256": "a317108b83dc665650e9557db338f9d46c47ed4ac40e3689886c2de0ccd8774a",
-  "size": 135150
+  "file": "LightFleetBot_1.15.zip",
+  "sha256": "f881a96d02a75c3f1482529abedcc9bc7378640e6ae9475259cb17101557c4a4",
+  "size": 136350
  }
 }
