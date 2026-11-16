@@ -1,15 +1,15 @@
 {
- "version": "1.15",
+ "version": "1.16",
  "date": "2026-11-16",
- "notes": "Asystentka Anna: charakter, język odpowiedzi wg ostatniej wiadomości",
+ "notes": "Asystentka Kasia: żywszy sposób rozmowy",
  "program": {
-  "file": "LIGHT_Fleet_Manager_Setup_1.15.exe",
-  "sha256": "8d45902da031b8e12c66887bbfdaedd5e9b30c5b9ea52e014526398ceef0b1fd",
-  "size": 27113032
+  "file": "LIGHT_Fleet_Manager_Setup_1.16.exe",
+  "sha256": "339b04174d7aed0fa8480e2f9ccd2735b75cb0c4ffbf9eed70044736d0c87e9d",
+  "size": 27111770
  },
  "bot": {
-  "file": "LightFleetBot_1.15.zip",
-  "sha256": "f881a96d02a75c3f1482529abedcc9bc7378640e6ae9475259cb17101557c4a4",
-  "size": 136350
+  "file": "LightFleetBot_1.16.zip",
+  "sha256": "890aa7913af5f2250d34e1e828fad5d4651a0da842876ae662ca31bf52fbd93d",
+  "size": 137050
  }
 }
