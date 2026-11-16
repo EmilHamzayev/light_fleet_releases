@@ -1,15 +1,15 @@
 {
- "version": "1.19",
+ "version": "1.20",
  "date": "2026-11-16",
- "notes": "Asystentka czyta zdjęcia i PDF dokumentów samochodu (dowód rejestracyjny, polisa OC)",
+ "notes": "Asystentka: zmiany floty, kierowcy, telefony, właściciele, olej, naprawy, SMS, przeniesienie wpłat z KASA",
  "program": {
-  "file": "LIGHT_Fleet_Manager_Setup_1.19.exe",
-  "sha256": "df164b21c8fd3be32732e6be3300438ab3e6d20dcbf4a580c61af341bd87441e",
-  "size": 27113054
+  "file": "LIGHT_Fleet_Manager_Setup_1.20.exe",
+  "sha256": "03002d47979ae6587c37dfab7397bcc2e2504024e836867c66cce3224db8f13c",
+  "size": 27113082
  },
  "bot": {
-  "file": "LightFleetBot_1.19.zip",
-  "sha256": "07c066ef7796bfd521e80701160e46648ca4f7904753e533123d40c07b98d689",
-  "size": 155720
+  "file": "LightFleetBot_1.20.zip",
+  "sha256": "5de845aade0069a631314ea0c626ceb757f7445c2b7adbba6d3406a117a36e0d",
+  "size": 165292
  }
 }
