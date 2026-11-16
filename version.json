@@ -1,15 +1,15 @@
 {
- "version": "1.16",
+ "version": "1.17",
  "date": "2026-11-16",
- "notes": "Asystentka Kasia: żywszy sposób rozmowy",
+ "notes": "Asystentka: arkusz KASA (kto oddał gotówkę), wynajem (auta, płatności, notatki, przebieg, naprawy)",
  "program": {
-  "file": "LIGHT_Fleet_Manager_Setup_1.16.exe",
-  "sha256": "339b04174d7aed0fa8480e2f9ccd2735b75cb0c4ffbf9eed70044736d0c87e9d",
-  "size": 27111770
+  "file": "LIGHT_Fleet_Manager_Setup_1.17.exe",
+  "sha256": "6e012e9d937b9751e1b9c58d48e38b931de4a7f0d2dcf59bf5948bd5d1117b33",
+  "size": 27113683
  },
  "bot": {
-  "file": "LightFleetBot_1.16.zip",
-  "sha256": "890aa7913af5f2250d34e1e828fad5d4651a0da842876ae662ca31bf52fbd93d",
-  "size": 137050
+  "file": "LightFleetBot_1.17.zip",
+  "sha256": "127e0ffc2149ff63c60c0ba5b998fd26e368569521780e1a2273bf9e25dac737",
+  "size": 148157
  }
 }
