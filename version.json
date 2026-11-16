@@ -1,15 +1,15 @@
 {
- "version": "1.17",
+ "version": "1.18",
  "date": "2026-11-16",
- "notes": "Asystentka: arkusz KASA (kto oddał gotówkę), wynajem (auta, płatności, notatki, przebieg, naprawy)",
+ "notes": "Asystentka: gotówka z danego tygodnia liczona wg wpłat z następnego tygodnia (KASA)",
  "program": {
-  "file": "LIGHT_Fleet_Manager_Setup_1.17.exe",
-  "sha256": "6e012e9d937b9751e1b9c58d48e38b931de4a7f0d2dcf59bf5948bd5d1117b33",
-  "size": 27113683
+  "file": "LIGHT_Fleet_Manager_Setup_1.18.exe",
+  "sha256": "ae4d937ac6f51c32469cd7abdc14c7a87c8adafb582489aedd3edc429f0a3649",
+  "size": 27111084
  },
  "bot": {
-  "file": "LightFleetBot_1.17.zip",
-  "sha256": "127e0ffc2149ff63c60c0ba5b998fd26e368569521780e1a2273bf9e25dac737",
-  "size": 148157
+  "file": "LightFleetBot_1.18.zip",
+  "sha256": "b65a0b63ddcbe5f717f042d21b7a6e9149f746630afbdcfcc11b3f007f11f1ca",
+  "size": 149681
  }
 }
